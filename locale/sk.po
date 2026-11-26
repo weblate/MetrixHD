@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: openATV / MyMetrixLite\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-13 11:41+0200\n"
-"PO-Revision-Date: 2026-10-30 20:51+0000\n"
+"PO-Revision-Date: 2026-11-21 22:48+0000\n"
 "Last-Translator: Marián Hikaník <marian-sk@users.noreply.hosted.weblate.org>"
 "\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/openatv/metrixhd/"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.11.dev0\n"
+"X-Generator: Weblate 2026.12.dev0\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid ""
@@ -41,7 +41,7 @@ msgstr ""
 "Stlačte tlačidlo 'OK'"
 
 msgid "     "
-msgstr "     . . . . .     "
+msgstr "     "
 
 #, python-format
 msgid "%d Minutes"
@@ -1660,6 +1660,109 @@ msgstr "vybrané"
 
 msgid "width"
 msgstr "šírka"
+
+msgid "Advance Movie List (AML)"
+msgstr "Pokročilý zoznam filmov (AML)"
+
+msgid "Movie information style"
+msgstr "Štýl informácií o filme"
+
+msgid ""
+"Choose the Metrix layout for the INFO screen. List styles and sorting are "
+"configured in Movie Selection settings."
+msgstr ""
+"Vyberte rozloženie Metrix pre informačnú obrazovku. Štýly zoznamu a "
+"zoraďovanie sú nakonfigurované v nastaveniach Výber filmu."
+
+msgid "Backdrop shading"
+msgstr "Stlmenie pozadia"
+
+msgid "Darken the full-screen artwork to keep movie information readable."
+msgstr ""
+"Stmaviť grafiku na celú obrazovku, aby bolo možné prečítať informácie o "
+"filme."
+
+msgid "Movie artwork in player"
+msgstr "Obal/grafika filmu v prehrávači"
+
+msgid "Show available movie artwork in the Metrix movie infobar."
+msgstr ""
+"Zobraziť dostupný obal/grafiku filmu v informačnom paneli Metrix pre film."
+
+msgid "Full-screen backdrop"
+msgstr "Pozadie na celú obrazovku"
+
+msgid "Poster and information"
+msgstr "Plagát a informácia"
+
+msgid "Light"
+msgstr "Ľahké"
+
+msgid "Medium"
+msgstr "Stredné"
+
+msgid "Strong"
+msgstr "Silné"
+
+msgid "Movie list"
+msgstr "Zoznam filmov"
+
+msgid "Movie player"
+msgstr "Prehrávač filmov"
+
+msgid "Metrix: artwork and information"
+msgstr "Metrix: obal/grafika a informácia"
+
+msgid "Metrix: classic details on the left (EMC)"
+msgstr "Metrix: klasické podrobnosti naľavo (EMC)"
+
+msgid "Metrix: classic details below the list (EMC)"
+msgstr "Metrix: klasické podrobnosti pod zoznamom (EMC)"
+
+msgid "Metrix: classic left preview (EMC)"
+msgstr "Metrix: klasický náhľad naľavo (EMC)"
+
+msgid "Metrix: classic bottom preview (EMC)"
+msgstr "Metrix: klasický náhľad dole (EMC)"
+
+msgid "Metrix: cover overview (AMS)"
+msgstr "Metrix: prekrývanie obalu (AMS)"
+
+msgid "Metrix: overview with mini TV (AMS)"
+msgstr "Metrix: Prehľad s mini TV (AMS)"
+
+msgid "Metrix: wide movie list"
+msgstr "Metrix: široký zoznam filmov"
+
+msgid "Metrix: Classic movie information bar (EMC)"
+msgstr "Metrix: klasický informačný panel pre film (EMC)"
+
+msgid "Metrix: Movie information bar"
+msgstr "Metrix: informačný panel pre film"
+
+msgid "Metrix: compact list"
+msgstr "Metrix: kompaktný zoznam"
+
+msgid "Metrix: information list"
+msgstr "Metrix: zoznam s informáciami"
+
+msgid "Metrix: classic movie list (EMC)"
+msgstr "Metrix: klasický zoznam filmov (EMC)"
+
+msgid "Metrix: classic list with description (EMC)"
+msgstr "Metrix: klasický zoznam s opisom (EMC)"
+
+msgid "Metrix: tiles"
+msgstr "Metrix: dlaždice"
+
+msgid "Metrix: large tiles"
+msgstr "Metrix: veľké dlaždice"
+
+msgid "Metrix: poster grid"
+msgstr "Metrix: mriežka plagátov"
+
+msgid "Metrix: poster list"
+msgstr "Metrix: zoznam plagátov"
 
 #, python-format
 #~ msgid ""
